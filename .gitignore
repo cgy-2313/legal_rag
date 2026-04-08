@@ -1,0 +1,5 @@
+.env
+legal_db/
+docs/
+__pycache__/
+*.pyc
